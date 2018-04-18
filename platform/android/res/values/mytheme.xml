@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="materialTheme" parent="@style/Theme.AppCompat">
+	    <item name="colorPrimary">#B61773</item>
+	    <item name="colorPrimaryDark">#880E4F</item>
+	    <item name="colorAccent">#000000</item>
+	    <!-- <item name="colorAccent">#FF80AB</item> -->
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD </item>
+	    <item name="android:colorButtonNormal">#F5F5F5</item>
+	    <item name="android:colorEdgeEffect">#000000</item>
+	    <!-- <item name="android:colorEdgeEffect">#F5F5F5</item> -->
+
+	    <item name="android:navigationBarColor">#000000</item>
+		<item name="android:statusBarColor">#880E4F</item>
+		<item name="android:textColorPrimary">#FFFFFF</item>
+
+	</style>
+
+	<style name="materialThemeModule" parent="@style/Theme.AppCompat">
+        <item name="colorPrimary">#B61773</item>
+	    <item name="colorPrimaryDark">#880E4F</item>
+	    <item name="colorAccent">#FF80AB</item>
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD </item>
+	    <item name="android:colorButtonNormal">#F5F5F5</item>
+	    <item name="android:colorEdgeEffect">#F5F5F5</item>
+
+	    <!-- <item name="android:navigationBarColor">#323131</item> -->
+		<item name="android:statusBarColor">#880E4F</item>
+		<!-- <item name="android:textColorPrimary">#FFFFFF</item> -->
+		<item name="android:indeterminateTint">#B61773</item>
+		<!-- <item name="android:progressBackgroundTint">#FDC908</item> -->
+
+    </style>
+
+	<style name="materialThemeNoAB" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFFFFF</item>
+	    <item name="colorPrimaryDark">#FFFFFF</item>
+	    <item name="colorAccent">#FF80AB</item>
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD </item>
+	    <item name="android:colorButtonNormal">#F5F5F5</item>
+	    <item name="android:colorEdgeEffect">#F5F5F5</item>
+
+	    <!-- <item name="android:navigationBarColor">#323131</item> -->
+		<item name="android:statusBarColor">#000000</item>
+		<!-- <item name="android:textColorPrimary">#FFFFFF</item> -->
+
+    </style>
+
+    <style name="materialThemePrimeraVezApp" parent="@style/Theme.AppCompat.NoActionBar">
+    	<item name="colorPrimary">#B61773</item>
+	    <item name="colorPrimaryDark">#880E4F</item>
+	    <item name="colorAccent">#FF80AB</item>
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD </item>
+	    <item name="android:colorButtonNormal">#F5F5F5</item>
+	    <item name="android:colorEdgeEffect">#F5F5F5</item>
+
+	    <!-- <item name="android:navigationBarColor">#323131</item> -->
+		<item name="android:statusBarColor">#880E4F</item>
+		<!-- <item name="android:textColorPrimary">#FFFFFF</item> -->
+		<item name="android:indeterminateTint">#B61773</item>
+		<!-- <item name="android:progressBackgroundTint">#FDC908</item> -->
+        <!-- <item name="colorPrimary">#000000</item>
+	    <item name="colorPrimaryDark">#880E4F</item>
+	    <item name="colorAccent">#FF80AB</item>
+	    <item name="colorControlNormal">#757575</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBD </item>
+	    <item name="android:colorButtonNormal">#F5F5F5</item>
+	    <item name="android:colorEdgeEffect">#F5F5F5</item>
+
+	    <item name="android:navigationBarColor">#000000</item>
+		<item name="android:statusBarColor">#880E4F</item> -->
+		<!-- <item name="android:textColorPrimary">#FFFFFF</item> -->
+
+    </style>
+
+    <style name="materialThemePrueba" parent="@style/Theme.AppCompat">
+	    <item name="colorPrimary">#FFFFFF</item>
+	    <item name="colorPrimaryDark">#880E4F</item>
+	    <item name="colorAccent">#000000</item>
+	    <!-- <item name="colorAccent">#FF80AB</item> -->
+	    <item name="colorControlNormal">#757575ff</item>
+	    <item name="colorControlActivated">#FFFFFF</item>
+	    <item name="colorControlHighlight">#F5F5F5ff</item>
+	    <item name="colorSwitchThumbNormal">#BDBDBDff</item>
+	    <item name="android:colorButtonNormal">#F5F5F5ff</item>
+	    <item name="android:colorEdgeEffect">#000000</item>
+	    <!-- <item name="android:colorEdgeEffect">#F5F5F5</item> -->
+
+	    <item name="android:navigationBarColor">#000000</item>
+		<item name="android:statusBarColor">#880E4F</item>
+		<item name="android:textColorPrimary">#000000</item>
+
+	</style>
+</resources>
