@@ -1,7 +1,0 @@
-var win_principal = Titanium.UI.createWindow({
-	backgroundColor: '#000000',
-	width: '100%',
-	height: Titanium.UI.FILL
-});
-
-win_principal.open();

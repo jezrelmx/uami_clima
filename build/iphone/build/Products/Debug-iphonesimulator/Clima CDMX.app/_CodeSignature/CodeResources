@@ -38,7 +38,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		sBOgujPu6IWUnDO7u8gUjNn34jg=
+		8dk/VY1NLk5q6dalGoQFSY/wOF0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		Jz6u+cz2vohIGKZZBunX15sO16c=
+		VtsWtM0CYi7+ttKpZEjlqWnYot0=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -82,11 +82,19 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		AjFlMJbVtIiThp3I3WKIvfSzrmU=
+		ovSzqM+ft0c9FSbzdm0KedU0yhM=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>_app_props_.json</key>
+		<data>
+		Xe5xC0L46tR1prJlDSnrcasRpTY=
+		</data>
+		<key>app.js</key>
+		<data>
+		a+M3ARbhX/e1Ljy9jAhVSHH9zM0=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -117,6 +125,22 @@
 		<key>modules/ui/images/photoDefault.png</key>
 		<data>
 		lLVMxC6YV4FmPpj98HVvSs0OFq8=
+		</data>
+		<key>ui/common/FirstView.js</key>
+		<data>
+		IvWnXNJ54GsEMFnkhQPG9zFTDrw=
+		</data>
+		<key>ui/handheld/ApplicationWindow.js</key>
+		<data>
+		//TYHvdFd7rDrMq0IaTFpIHf/bs=
+		</data>
+		<key>ui/handheld/android/ApplicationWindow.js</key>
+		<data>
+		2GpgtM4xlAC11sa82W0+bwQLkhM=
+		</data>
+		<key>ui/tablet/ApplicationWindow.js</key>
+		<data>
+		//TYHvdFd7rDrMq0IaTFpIHf/bs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -213,11 +237,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sBOgujPu6IWUnDO7u8gUjNn34jg=
+			8dk/VY1NLk5q6dalGoQFSY/wOF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/S9p3umD11SCzwd+eeBH1pbK18Z3CoqmPOI8n1DX26c=
+			ZzsQOlLMv4V7scPTnksBypwayaLkBpysF4Nw9Cli9SU=
 			</data>
 		</dict>
 		<key>LaunchImage-1100-Landscape-2436h@3x.png</key>
@@ -301,11 +325,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Jz6u+cz2vohIGKZZBunX15sO16c=
+			VtsWtM0CYi7+ttKpZEjlqWnYot0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Noc0oLx74PAam0jesmgohhSffuQFuBGgYUakgacg7xQ=
+			sZFwI5tf1VBFu+2MZwyK6dIPksru3uLUI+b6IvTpoMo=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -323,11 +347,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AjFlMJbVtIiThp3I3WKIvfSzrmU=
+			ovSzqM+ft0c9FSbzdm0KedU0yhM=
 			</data>
 			<key>hash2</key>
 			<data>
-			SmxZGk8CEt5rheq9aYtbjw0jCP093NVTpMH2GYUmz2E=
+			zvtt4rcXg2ya+ThleIpkhKdTAC+TlNmJ9u/W0g0xxX0=
+			</data>
+		</dict>
+		<key>_app_props_.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Xe5xC0L46tR1prJlDSnrcasRpTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			SOEW7K1fY3DnuPgMgznyKbyEDvS7TNbunTNdMSNb3ro=
+			</data>
+		</dict>
+		<key>app.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			a+M3ARbhX/e1Ljy9jAhVSHH9zM0=
+			</data>
+			<key>hash2</key>
+			<data>
+			pE/++VIvU6txn0PLVAxB+NJRMIZTooClWuSE5Zxy7I8=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
@@ -387,6 +433,50 @@
 			<key>hash2</key>
 			<data>
 			S74Fh0DVmpMRSYggD6OnjifLYP+HnewOOhPX62tCbg8=
+			</data>
+		</dict>
+		<key>ui/common/FirstView.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IvWnXNJ54GsEMFnkhQPG9zFTDrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			i8PeYJjGWzHFOOgCOEldlrE5zhydtB5ktR7VBEoSBGU=
+			</data>
+		</dict>
+		<key>ui/handheld/ApplicationWindow.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			//TYHvdFd7rDrMq0IaTFpIHf/bs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hns0qlJMG23cZpv5i3QoI4fEeoC3WKfHBaZvPV6FFf4=
+			</data>
+		</dict>
+		<key>ui/handheld/android/ApplicationWindow.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2GpgtM4xlAC11sa82W0+bwQLkhM=
+			</data>
+			<key>hash2</key>
+			<data>
+			wktRs4UlV636/TdpYvEjtheWyYGDEPa1o9I9/07OdQc=
+			</data>
+		</dict>
+		<key>ui/tablet/ApplicationWindow.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			//TYHvdFd7rDrMq0IaTFpIHf/bs=
+			</data>
+			<key>hash2</key>
+			<data>
+			Hns0qlJMG23cZpv5i3QoI4fEeoC3WKfHBaZvPV6FFf4=
 			</data>
 		</dict>
 	</dict>

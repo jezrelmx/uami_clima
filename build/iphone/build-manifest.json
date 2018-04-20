@@ -3096,14 +3096,14 @@
 			"size": 57128
 		},
 		"Default-568h@2x.png": {
-			"hash": "73a0a5613b95d70f9d7b26ed3fae9c10",
-			"mtime": "2018-04-18T17:26:52.000Z",
-			"size": 259704
+			"hash": "9fd36b767e4393c7bbacac0bc02ee055",
+			"mtime": "2018-04-19T04:44:50.000Z",
+			"size": 51882
 		},
 		"Default-667h@2x.png": {
-			"hash": "c5301268170ecf8d3c6aa2cf2d13ada8",
-			"mtime": "2018-04-18T17:26:52.000Z",
-			"size": 281744
+			"hash": "a562f0468727e3d4852f98747d5b3014",
+			"mtime": "2018-04-19T04:44:54.000Z",
+			"size": 63333
 		},
 		"Default-Landscape-2436h@3x.png": {
 			"hash": "dd72aa58260ae08455294ef0bce148d6",
@@ -3111,9 +3111,9 @@
 			"size": 870596
 		},
 		"Default-Landscape-736h@3x.png": {
-			"hash": "fe363143b3b7c19f6658a2b24cd7554f",
-			"mtime": "2018-04-18T17:26:52.000Z",
-			"size": 574799
+			"hash": "f44ef4adc1dce1269fd76cbf8c7621d5",
+			"mtime": "2018-04-19T04:44:54.000Z",
+			"size": 124635
 		},
 		"Default-Portrait-2436h@3x.png": {
 			"hash": "e92e73768de7f43dffb7db870060ac79",
@@ -3121,14 +3121,49 @@
 			"size": 713539
 		},
 		"Default-Portrait-736h@3x.png": {
-			"hash": "f3cdbbdb8725b1366b6f857a886d6716",
-			"mtime": "2018-04-18T17:26:52.000Z",
-			"size": 356659
+			"hash": "98cd0c95fffeedc9f7104837f2cca43e",
+			"mtime": "2018-04-19T04:44:54.000Z",
+			"size": 125699
 		},
 		"Default@2x.png": {
-			"hash": "db0ad2ebd19d6968e24141bcbc08487a",
-			"mtime": "2018-04-18T17:26:53.000Z",
-			"size": 186113
+			"hash": "a742af2327b0d820141d94e3fc7342b6",
+			"mtime": "2018-04-19T04:44:50.000Z",
+			"size": 49380
+		},
+		"assets/backCDMX/bellas.jpg": {
+			"hash": "35e2d3c79c465541035654c98abbbb93",
+			"mtime": "2018-04-18T22:59:11.000Z",
+			"size": 146463
+		},
+		"assets/backCDMX/bg1.jpg": {
+			"hash": "9d2a6c9b492bfac72db680f0802dcc57",
+			"mtime": "2018-04-18T19:28:39.000Z",
+			"size": 219263
+		},
+		"assets/backCDMX/drop.png": {
+			"hash": "af7c25c663d8a5bb09dd1d2bce9336a2",
+			"mtime": "2018-04-18T19:47:57.000Z",
+			"size": 10594
+		},
+		"assets/backCDMX/facebook.jpg": {
+			"hash": "6b76ac6d855292967380c8181202541e",
+			"mtime": "2018-04-18T23:05:35.000Z",
+			"size": 563564
+		},
+		"assets/backCDMX/turismo_23.jpg": {
+			"hash": "26bf1225572d805b6055d680528ce180",
+			"mtime": "2018-04-18T22:57:34.000Z",
+			"size": 83605
+		},
+		"assets/backCDMX/wind.png": {
+			"hash": "a56f9f0f89a0161c94ce00a97765680c",
+			"mtime": "2018-04-18T19:46:10.000Z",
+			"size": 9808
+		},
+		"assets/images/bg1.jpg": {
+			"hash": "1be4bede68636cda7eb0385137b5347f",
+			"mtime": "2018-04-09T20:20:39.000Z",
+			"size": 805040
 		},
 		"assets/images/tab1.png": {
 			"hash": "101b7e0edb0f6eaaf8496a794a5c1c2c",
@@ -3161,9 +3196,9 @@
 			"size": 19376
 		},
 		"Classes/ApplicationRouting.m": {
-			"hash": "6ada951731e9a50f7f02f0ea7b1b6c43",
-			"mtime": "2018-04-18T17:45:31.000Z",
-			"size": 12760
+			"hash": "fce9011bace91f553cccccc248d5bd77",
+			"mtime": "2018-03-14T20:46:38.000Z",
+			"size": 492
 		},
 		"en.lproj/Localizable.strings": {
 			"hash": "4e9c3867e7960a4ffaaa71bf0b33f03f",
@@ -3213,7 +3248,7 @@
 	"copyright": "2018 by jezrel_mx",
 	"guid": "a07a3339-1901-40dc-9999-7673c692e579",
 	"useAppThinning": true,
-	"skipJSMinification": true,
+	"skipJSMinification": false,
 	"encryptJS": false,
 	"showErrorController": true,
 	"useJSCore": true,
